@@ -5,5 +5,5 @@ Instructions:
 - Download backend repository on https://github.com/jusungchai/LHL-Final-Server
 - Run backend with "npm run start:dev"
 - Run front end (this repository) with "npm start"
-- To skip the madness, please visit: https://optimistic-goldstine-0e69a0.netlify.com/ for the deployed version.
+- To skip the madness, please visit: https://jobifyme.netlify.com/ for the deployed version.
 - Note: deployed version may have some glitch in websocket refreshing every 30 seconds of inactivity due to ping time out with CORS. 
